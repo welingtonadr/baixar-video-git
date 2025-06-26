@@ -1,0 +1,3 @@
+﻿# Copie este arquivo para cookies.txt e preencha com seus dados:
+sessionid=SEU_SESSION_ID
+csrftoken=SEU_CSRF_TOKEN
